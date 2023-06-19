@@ -1,0 +1,53 @@
+.btn {
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.darkBlue {
+  background: #232340;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  padding: 20px 44px 20px 44px;
+  max-width: 180px;
+}
+
+.lightBlue {
+  background: #5468e7;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 20px 37px 20px 37px;
+  color: #fff;
+}
+
+.purple {
+  background: #908cff;
+  border-radius: 20px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  margin: 325px 0 0 0;
+  padding: 11px 22px 11px 22px;
+  color: white;
+}
+
+.white {
+  background: white;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #5468e7;
+  padding: 17px 91px 17px 91px;
+  margin-top: 40px;
+}
