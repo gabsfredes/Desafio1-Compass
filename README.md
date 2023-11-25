@@ -16,3 +16,6 @@ Desafio 01 proposto pelo programa de treinamento na empresa Compass UOL. As espe
 - O site se adapta à telas menores, sendo mobile friendly.
 
 - Botões e menus tem ancoragem com as seções da página.
+
+
+- 🚨 Este repositório tornou-se público em 25/11/2023, após esta data, o mesmo irá passar por uma refatoração para aprendizado.
